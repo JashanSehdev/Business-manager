@@ -1,0 +1,21 @@
+{
+  "name": "business-analytics",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "g": "^2.0.1",
+    "mysql2": "^3.14.4",
+    "nodemon": "^3.1.10"
+  }
+}
